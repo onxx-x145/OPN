@@ -27,7 +27,9 @@
 No third-party Python packages are required.
 
 ## Usage
-
+```
+git clone https://github.com/onxx-x145/OPN.git
+cd OPN
 Run the tool:
 
 ```bash
