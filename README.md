@@ -1,4 +1,5 @@
 # OPN CODE </> 🕊️
+<img width="680" height="378" alt="156892" src="https://github.com/user-attachments/assets/0f14e362-bda2-4b93-954a-5618e363631a" />
 
 > A lightweight Python utility for wrapping and protecting Python (`.py`) and Bash (`.sh`) source files into a self-contained launcher.
 
